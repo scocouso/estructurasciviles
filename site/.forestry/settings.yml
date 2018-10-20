@@ -19,7 +19,7 @@ sections:
   label: Paginas
   create: all
   match: "*"
-upload_dir: site/img
+upload_dir: site/static/img
 public_path: "/uploads"
 front_matter_path: "/src/js/cms-preview-templates"
 use_front_matter_path: true
