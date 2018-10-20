@@ -1,8 +1,8 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
-webhook_url: 
+admin_path:
+webhook_url:
 sections:
 - type: directory
   path: site/content/post
@@ -29,7 +29,7 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: site//static/uploads
+upload_dir: site/img
 public_path: "/uploads"
 front_matter_path: "/src/js/cms-preview-templates"
 use_front_matter_path: true
