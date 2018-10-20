@@ -1,0 +1,49 @@
+<section id="contact" class="white">
+  <div class="container">
+    <div class="gap"></div>
+    <div class="center gap fade-down section-heading">
+      <h2 class="main-title">{{ .Site.Data.contact.title }}</h2>
+      <hr>
+      <p>{{ .Site.Data.contact.subtitle }}</p>
+    </div>
+    <div class="gap"></div>
+    <div class="row">
+      <div class="col-md-4 fade-up">
+        <h3>{{ .Site.Data.address.sidetitle }}</h3>
+        <br>
+        <br>
+        <p><i class="fas fa-map-marker"></i> {{ .Site.Data.address.address }}<br/> {{ .Site.Data.address.city }}<br/>
+          <i class="fas fa-phone"></i> {{ .Site.Data.address.phone }}<br/>
+          <i class="fas fa-envelope"></i><a href="#"> {{ .Site.Data.address.email }}</a> <br/>
+        </p>
+
+      </div><!-- col -->
+
+      <div class="col-md-8 fade-up">
+        <h3>{{ .Site.Data.contact.formtitle }}</h3>
+        <br>
+        <br>
+        <div id="message"></div>
+        <form method="post" action="https://formspree.io/your@email.com" id="contactform">
+          <input type="text" name="name" id="name" placeholder="{{ .Site.Data.contact.name }}" />
+          <input type="text" name="_replyto" id="email" placeholder="{{ .Site.Data.contact.email_sender }}" />
+          <input type="text" name="website" id="website" placeholder="{{ .Site.Data.contact.company }}" />
+          <textarea name="comments" id="comments" placeholder="{{ .Site.Data.contact.message }}"></textarea>
+          <input id="btncheck" class="btn btn-outlined btn-primary pull-left" type="submit" name="submit" disabled value="Enviar" />
+          <div class="checkbox pull-right">
+            <input id="check" name="checkbox" type="checkbox"  onchange="document.getElementById('btncheck').disabled = !this.checked;"/>
+            <label for="check">He leido y acepto la <a href="{{ .Site.BaseURL }}/privacidad">política de privacidad</a></label><!-- for must be the id of input -->
+            <ul>
+              <li>Responsable de los datos: Barnes & Boveri S.L.</li>
+              <li>Finalidad de los datos: Contacto comercial</li>
+              <li>Almacenamiento de los datos: Servidor de correo Go Daddy Operating Company, LLC</li>
+              <li>Derechos: En cualquier momento puedes limitar,recuperar y borrar tu información.</li>
+            </ul>
+          </div>
+        </form>
+
+      </div><!-- col -->
+    </div><!-- row -->
+    <div class="gap"></div>
+  </div>
+</section>

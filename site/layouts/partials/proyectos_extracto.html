@@ -1,0 +1,20 @@
+<section id="portfolio" class="white">
+	<div class="container">
+		<div class="gap"></div>
+		<div class="center gap fade-down section-heading">
+			<h2 class="main-title">Proyectos</h2>
+			<hr>
+			<p> A continuación se muestra una selección de nuestros proyectos más significativos:</p>
+		</div>
+		<ul class="portfolio-filter fade-down center">
+			<li><a class="btn btn-outlined btn-primary active" href="#" data-filter="*">Todo</a></li>
+			<li><a class="btn btn-outlined btn-primary" href="#" data-filter=".estructuras">Estructuras Civiles</a></li>
+			<li><a class="btn btn-outlined btn-primary" href="#" data-filter=".business">Business & Corporate</a></li>
+		</ul><!--/#portfolio-filter-->
+		<ul class="portfolio-items col-3 isotope fade-up">
+			{{ range where .Data.Pages "Type" "proyectos" }}
+			{{ .Render "li_front" }}
+			{{ end }}
+		</ul>
+	</div>
+</section>

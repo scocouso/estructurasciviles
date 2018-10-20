@@ -1,0 +1,57 @@
+<section id="estructuras" class="white">
+  <div class="container">
+    <div class="gap"></div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="center gap fade-down section-heading">
+          <h2 class="main-title">{{ .title }}</h2>
+          <hr>
+          <p>{{ .subtitle }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-12 fade-up">
+        <p>{{ .paragraph1 }}</p>
+        <p>{{ .paragraph2 }}</p>
+      </div>
+    </div>
+    <div class="gap"></div>
+    {{ $.Scratch.Set "counter" 0}}
+    {{ $.Scratch.Set "counter2" 0}}
+
+      {{ range $i, $value := .puntos }}
+
+      {{ if (or  (eq $i 3) (eq $i 0))}}
+            <div class="row">
+      {{ end }}
+      <div class="col-md-4 col-sm-12">
+        <div class="service-block">
+          <div class="pull-left bounce-in">
+            <i class="{{.icono}}"></i>
+          </div>
+          <div class="media-body fade-up">
+            <h3 class="media-heading">{{ .titulo }}</h3>
+            {{ if (.trabajos) }}
+                {{ partial "ventaja_lista.html" . }}
+            {{ else }}
+                <p>   {{ .text }}         </p>
+
+            {{ end }}
+          </div>
+        </div>
+      </div><!--/.col-md-4-->
+
+      {{ if (or  (eq $i 5) (eq $i 2))}}
+    </div>
+      {{ end }}
+
+      {{ end }}
+
+    </div><!--/.row-->
+
+  
+  <div class="gap"></div>
+
+
+</section>

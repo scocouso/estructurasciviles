@@ -1,0 +1,46 @@
+<aside class="col-sm-4 col-sm-push-8">
+
+  <div class="widget categories">
+    <h3 class="widget-title">Categorias</h3>
+    <div class="row">
+      {{ $sitecategories := .Site.Taxonomies.categories }}
+      {{ $categorieshalf := int (div (len $sitecategories) 2) }}
+      {{ $.Scratch.Set "firsthalf" 0 }}
+      {{ $.Scratch.Set "secondhalf" 0 }}
+      <div class="col-sm-6">
+        <ul class="list-unstyled">
+          {{ range $name, $taxonomy := $sitecategories }}
+          {{ $.Scratch.Add "firsthalf" 1}}
+          {{ if le ($.Scratch.Get "firsthalf") $categorieshalf }}
+          <li><i class="fas fa-angle-right"></i> <a href="/categories/{{$name | urlize}}">{{ $name }}</a></li>
+          {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+      <div class="col-sm-6">
+      <ul class="list-unstyled">
+        {{ range $name, $taxonomy := $sitecategories }}
+        {{ $.Scratch.Add "secondhalf" 1}}
+        {{ if gt ($.Scratch.Get "secondhalf") $categorieshalf }}
+        <li><i class="fas fa-angle-right"></i> <a href="/categories/{{$name | urlize}}">{{ $name }}</a></li>
+        {{ end }}
+        {{ end }}
+      </ul>
+
+      </div>
+    </div>
+  </div><!--/.categories-->
+  <div class="widget tags">
+    <h3 class="widget-title">Post Tags</h3>
+    <ul class="tag-cloud">
+      {{ $maxtags := .Site.Params.maxTags | default 50 }}
+      {{ if .Site.Params.showTagCloud | default true }}
+      {{ range .Site.Taxonomies.tags.ByCount }}
+      <li><a class="btn btn-xs btn-primary btn-outlined" href="{{ "/tags/" | relLangURL }}{{ .Name | urlize }}">{{ .Name }}</a></li>
+      {{ end }}
+      {{ end }}
+
+    </ul>
+  </div><!--/.tags-->
+
+</aside>

@@ -1,0 +1,22 @@
+<section id="testimonial-carousel" class="divider-section">
+  <div class="gap"></div>
+  <div class="container">
+    <div class="row">
+      <div class="center gap fade-down section-heading">
+        <h2 class="main-title">{{ .title }}</h2>
+        <hr/>
+        <div class="gap"></div>
+      </div>
+      <div class='col-md-offset-2 col-md-8 fade-up'>
+        <div class="row">
+          {{ range .clientes}}
+          <div class="col-sm-3 text-center">
+            <img class="img-responsive" src="{{ .logo }}" alt="logo cliente"/>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="gap"></div>
+</section>

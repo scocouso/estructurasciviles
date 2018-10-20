@@ -1,0 +1,134 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/img" # Folder where user uploaded files should go
+public_folder: "img"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "proyecto" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Proyecto" # Used in the UI, ie.: "New Post"
+    folder: "site/content/proyectos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Texto", name: "description", widget: "markdown"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Tipo", name: "body", widget: "string" }
+  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Post" # Used in the UI, ie.: "New Post"
+    folder: "site/content/post" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/_index.md"
+        label: "Pagina Inicio"
+        name: "home"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: Estructuras, name: estructuras, widget: object, fields: [
+              {label: Titulo, name: title, widget: string},
+              {label: Subtitulo, name: subtitle, widget: string},
+              {label: Parrafo1, name: paragraph1, widget: text},
+              {label: Parrafo2, name: paragraph2, widget: text},
+              {label: Puntos, name: puntos, widget: list, fields: [
+                {label: Titulo, name: titulo, widget: string},
+                {label: icono, name: icono, widget: string},
+                {label: Texto, name: text, widget: text}]}]}
+          - {label: "Lema", name: lema, widget: object, fields: [
+              {label: Frase, name: title, widget: string},
+              {label: Subtexto, name: subtitle, widget: string}]}
+          - {label: "Business", name: business, widget: object, fields: [
+              {label: Titulo, name: title, widget: string},
+              {label: Subtitulo, name: subtitle, widget: string},
+              {label: Parrafo1, name: paragraph, widget: text},
+              {label: Ventajas, name: ventajas, widget: list, fields: [
+                {label: Texto, name: description, widget: string}]},
+              {label: Titulo 2, name: title2, widget: string},
+              {label: Puntos, name: puntos, widget: list, fields: [
+                {label: Titulo, name: title, widget: string},
+                {label: Texto, name: paragraph, widget: text}]}]}
+          - {label: "Contadores", name: counters, widget: list, fields: [
+              {label: "Icono", name: "icono", widget: "string"},
+              {label: "Cifra", name: "cifra", widget: "string"},
+              {label: "Titulo", name: "titulo", widget: "string"}]}
+          - {label: "Sobre Nosotros", name: about, widget: object, fields: [
+              {label: Titulo, name: title, widget: string},
+              {label: Subtitulo, name: subtitle, widget: string},
+              {label: Parrafos, name: parrafos, widget: list, fields: [
+                {label: Texto, name: texto, widget: string}]},
+              {label: Titulo 2, name: title2, widget: string},
+              {label: Equipo, name: equipo, widget: list, fields: [
+                {label: Nombre, name: nombre, widget: string},
+                {label: Foto, name: foto, widget: "image"},
+                {label: Puesto, name: puesto, widget: string},
+                {label: Descripcion, name: descripcion, widget: text},
+                {label: Linkedin, name: linkedin, widget: string}]}]}
+          - {label: "Confian en nosotros", name: trustus, widget: object, fields: [
+              {label: Titulo, name: title, widget: string},
+              {label: Clientes, name: clientes, widget: list, fields: [
+                {label: Logo, name: logo, widget: "image"}]}]}
+          - {label: Image, name: image, widget: image}
+          - {label: "Blurb", name: blurb, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Intro", name: intro, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Products", name: products, widget: list, fields: [
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Values", name: "values", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Text", name: "text", widget: "text"}]}
+      - file: "site/content/contact/_index.md"
+        label: "Contact Page"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
+            widget: list
+            fields:
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
+      - file: "site/content/products/_index.md"
+        label: "Products Page"
+        name: "products"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
+          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
+          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
+          - {label: Full_image, name: full_image, widget: image}
+          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
+      - file: "site/content/values/_index.md"
+        label: "Values Page"
+        name: "values"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
+            widget: list
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}

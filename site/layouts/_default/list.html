@@ -1,0 +1,26 @@
+{{ define "main" }}
+{{ partial "single_slider" (dict "title" "Últimos articulos") }}
+
+<div id="content-wrapper" style="margin-bottom: 375px;">
+        <section id="blog" class="white">
+            <div class="container">
+            <div class="gap"></div>
+                <div class="row">
+                    {{ partial "aside" . }}
+                    <div class="col-sm-8 col-sm-pull-4">
+                        <div class="blog">
+                            {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+                              <div class="blog-item">
+                                {{ .Render "li"}}
+                              </div>
+                            {{ end }}
+                            {{ partial "pagination" . }}
+                        </div>
+                    </div><!--/.col-md-8-->
+                </div><!--/.row-->
+            </div>
+        </section><!--/#blog-->
+</div>
+
+
+{{end}}

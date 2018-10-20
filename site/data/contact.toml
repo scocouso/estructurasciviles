@@ -1,0 +1,8 @@
+title = "CONTACTO"
+subtitle = "VISITANOS O CUBRE EL FORMULARIO PARA CONTACTAR CON NOSOTROS."
+formtitle = "Envianos un mensaje"
+name =  "Nombre"
+email_sender =  "Email"
+company = "Compañia"
+mensaje = "Comentarios"
+enviar = "Enviar"

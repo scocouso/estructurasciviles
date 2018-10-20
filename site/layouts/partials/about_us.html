@@ -1,0 +1,51 @@
+<section id="about-us" class="white">
+  <div class="container">
+    <div class="gap"></div>
+    <div class="row">
+      <div class="col-md-12">
+        <div class="center gap fade-down section-heading">
+          <h2 class="main-title">{{ .title }}</h2>
+          <hr/>
+          <p>{{ .subtitle }}</p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-10 col-md-offset-1 fade-up">
+        {{ range .parrafos }}
+        <p>{{ .texto }}</p>
+        {{ end }}
+      </div>
+      <div class="col-md-2 fade-up">
+      </div>
+    </div>
+    <div class="gap"></div>
+    <div class="gap"></div>
+    <div class="center gap fade-down section-heading">
+      <h2 class="main-title">{{ .title2 }}</h2>
+      <hr/>
+    </div>
+    <div class="gap"></div>
+    <div id="meet-the-team" class="row">
+      {{ range .equipo }}
+      <div class="col-md-5 col-md-offset-1 col-xs-12">
+        <div class="center team-member">
+          <div class="team-image">
+            <img class="img-responsive img-thumbnail bounce-in" src="{{ .foto }}" alt="">
+            <div class="overlay">
+              <a class="preview btn btn-outlined btn-primary" href="{{ .foto }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+            </div>
+          </div>
+          <div class="team-content fade-up">
+            <h5>{{ .nombre }}<small class="role muted">{{ .puesto }}</small></h5>
+            <p>{{ .descripcion }}</p>
+            <a class="btn btn-social btn-linkedin" href="{{ .linkedin }}"><i class="fab fa-linkedin-in"></i></a>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div><!--/#meet-the-team-->
+    <div class="gap"></div>
+    <div class="gap"></div>
+  </div>
+</section>

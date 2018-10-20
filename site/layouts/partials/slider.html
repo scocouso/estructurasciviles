@@ -1,0 +1,35 @@
+<script>
+
+jQuery(document).ready(function($){
+  'use strict';
+  jQuery('body').backstretch([
+    "{{ .slide1 }}",
+    "{{ .slide2 }}",
+    "{{ .slide3 }}"
+  ], {duration: 5000, fade: 500, centeredY: true });
+
+
+});
+</script>
+
+<section id="main-slider" class="no-margin">
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="item active">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="carousel-content center centered">
+                              <img src="/img/logo-estructuras-civiles.png" alt="logo estructuras"/>
+                                <h2 class="boxed animation animated-item-1 fade-down">{{ .title }}</h2>
+                                <p class="boxed animation animated-item-2 fade-up">{{ .subtitle }}</p>
+                                <br/>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div><!--/.item-->
+        </div><!--/.carousel-inner-->
+    </div><!--/.carousel-->
+</section><!--/#main-slider-->

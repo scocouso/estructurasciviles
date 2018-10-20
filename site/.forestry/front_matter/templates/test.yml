@@ -1,0 +1,36 @@
+---
+label: Test
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Titulo
+  name: titulo
+  description: titulo del artículo
+- type: file
+  name: portada
+  label: Portada
+  description: imagen principal del articulo
+- type: datetime
+  label: Fecha del artículo
+  name: fecha_del_articulo
+  description: Fecha
+  config:
+    time_format: hh:mm
+    required: true
+- type: textarea
+  name: texto
+  label: Texto del articulo
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+    required: true
+- type: image_gallery
+  label: Galeria
+  name: Galeria
+  description: Galeria de fotos (opcional)
+- type: tag_list
+  name: etiquetas
+  label: Etiquetas
+  description: Etiquetas del artículo

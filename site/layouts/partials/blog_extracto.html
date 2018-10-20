@@ -1,0 +1,27 @@
+<section id="blog" class="white">
+                <div class="container">
+                    <div class="center gap fade-down section-heading no-display animated fadeInDown appear">
+                   		<div class="gap"></div>
+                        <h2 class="main-title">Blog</h2>
+                        <hr>
+                        <p>Últimas noticias de nuestro blog</p>
+                    </div>
+                    <div class="gap"></div>
+										{{ $list := (where .Data.Pages "Type" "blog") }}
+										{{ $len := (len $list) }}
+										{{  range $i, $value := (first 6 (where .Data.Pages "Type" "blog")) }}
+
+										{{ if (or  (eq $i 3) (eq $i 0))}}
+													<div class="row">
+										{{ end }}
+
+
+											{{ .Render "article_front" }}
+											{{ if (or  (eq $i 5) (eq $i 2)  (eq $len $i))}}
+								    </div>
+								      {{ end }}
+										{{ end }}
+
+                    <div class="gap"></div>
+                </div>
+</section>

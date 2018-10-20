@@ -1,0 +1,20 @@
+<header class="navbar navbar-inverse navbar-fixed-top">
+	<div class="container">
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+				<span class="sr-only">Toggle navigation</span>
+				<i class="fa fa-bars"></i>
+			</button>
+			<a class="navbar-brand" href="{{ .Site.Params.BaseUrl }}"><img src="/img/bandb2.png" alt="logo barnes"/></a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav navbar-right">
+				{{ range .Site.Menus.header }}
+				<li><a href="{{ .URL }}">{{ .Name }}</a></li>
+				{{ end }}
+
+
+			</ul>
+		</div>
+	</div>
+</header><!--/header-->

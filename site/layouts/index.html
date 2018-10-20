@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+{{ partial "slider" .Params }}
+<div id="content-wrapper">
+{{ partial "estructuras" .Params.estructuras}}
+
+{{ partial "quote" .Params.lema}}
+
+{{ partial "business" .Params.business}}
+
+{{ partial "counters" .Params}}
+
+{{ partial "about_us" .Params.about }}
+
+{{ partial "trust_us" .Params.trustus }}
+
+{{ with .Site.GetPage "section" "blog" }}
+  {{ partial "blog_extracto" . }}
+{{ end }}
+
+{{ partial "proyectos_extracto" . }}
+
+{{ partial "map" .}}
+
+{{ partial "contact-form" . }}
+</div>
+{{ end }}

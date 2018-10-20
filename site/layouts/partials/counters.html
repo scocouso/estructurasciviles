@@ -1,0 +1,17 @@
+<section id="stats" class="divider-section">
+  <div class="gap"></div>
+  <div class="container">
+    <div class="row">
+      {{ range .counters}}
+      <div class="col-md-3 col-xs-6">
+        <div class="center bounce-in">
+          <span class="stat-icon"><span class="{{ .icono }} bounce-in"></span></span>
+          <h1>+<span class="counter">{{ .cifra }}</span></h1>
+          <h3>{{ .titulo }}</h3>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+  <div class="gap"></div>
+</section>

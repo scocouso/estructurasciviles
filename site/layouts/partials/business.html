@@ -1,0 +1,43 @@
+<section id="business" class="white">
+  <div class="container">
+    <div class="center gap fade-down section-heading">
+      <h2 class="main-title"> {{ .title }}</h2>
+      <hr>
+      <p>{{ .subtitle}}</p>
+    </div>
+    <div class="gap"></div>
+    <div class="row">
+      <div class="col-md-12 fade-up">
+        <p>{{ .paragraph}}</p>
+        <br>
+        <ul>
+          {{ range .ventajas }}
+          <li>{{ .description }}</li>
+          {{ end }}
+        </ul>
+        </div>
+      </div>
+      <div class="gap"></div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="center gap fade-down section-heading">
+            <h2 class="main-title">{{ .title2 }}</h2>
+            <hr/>
+          </div>
+        </div>
+      </div>
+      <div id="advantages_table" class="row">
+        {{ range .puntos }}
+        <div class="col-md-3 col-xs-6 flip-in">
+          <ul class="plan plan2 featured">
+            <li class="plan-name">
+              <h3>{{ .title }}</h3>
+            </li>
+            <li class="ventajas">{{ .paragraph }}</li>
+          </ul>
+        </div>
+        {{ end }}
+        <div class="gap"></div>
+      </div>
+    </div>
+  </section>

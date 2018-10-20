@@ -1,0 +1,57 @@
+<div id="footer-wrapper">
+        <section id="bottom" class="">
+            <div class="container">
+                <div class="row">
+
+                    <div class="col-md-3 col-md-offset-1 col-sm-6 about-us-widget">
+                        <h4>{{ .Site.Data.footer.title }}</h4>
+                        <p>{{ .Site.Data.footer.paragraph }}</p>
+                    </div><!--/.col-md-3-->
+
+                    <div class="col-md-3 col-md-offset-1 col-sm-6">
+                        <h4>Barnes&Boveri</h4>
+                        <div>
+                            <ul>
+                              {{ range .Site.Menus.footer }}
+                                <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+                              {{ end }}
+                            </ul>
+                        </div>
+                    </div><!--/.col-md-3-->
+
+                    <div class="col-md-3 col-md-offset-1 col-sm-6">
+                        <h4>{{ .Site.Data.address.title }}</h4>
+                        <address>
+                            {{ .Site.Data.address.address }}<br/>
+                            {{ .Site.Data.address.city }}<br>
+                            <br> <abbr title="Phone"><i class="fa fa-phone"></i></abbr> {{ .Site.Data.address.phone }}<br>
+                            <i class="fas fa-envelope"></i> {{ .Site.Data.address.email }}<br/>
+                        </address>
+                    </div> <!--/.col-md-3-->
+                </div>
+            </div>
+        </section><!--/#bottom-->
+
+
+        <footer id="footer" class="">
+          <div class="container">
+            <div class="row">
+              <div class="col-sm-6">
+                &copy; {{ dateFormat "2006" now }} Barnes and Boveri
+              </div>
+              <div class="col-sm-6">
+                <ul class="pull-left inline">
+                  <li><a href="{{ .Site.BaseURL }}/privacidad">Politica de privacidad</a></li>
+                  <li><a href="{{ .Site.BaseURL }}/cookies">Uso de Cookies</a></li>
+                  <li><a href="{{ .Site.BaseURL }}/aviso">Aviso Legal</a></li>
+                </ul>
+                <ul class="pull-right">
+                  <li><a id="gototop" class="gototop" href="#"><i class="fa fa-chevron-up"></i></a></li><!--#gototop-->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </footer><!--/#footer-->
+</div>
+
+<script src="/app.js"></script>
