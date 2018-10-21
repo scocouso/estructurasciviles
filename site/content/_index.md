@@ -25,10 +25,6 @@ business:
       paragraph : "Desarrollar una planificación estratégica dentro de la empresa, donde se analice factores internos y externos de la industria, mercado, competencia, producto, reestructura de la misión, visión, valores, objetivos, etc."
     - title : "Agilidad en el mercado"
       paragraph : "Se reducen plazos en la adaptación al cambio ya que las empresas se preparan para detectar tendencias, diseñar planes e implantarlos con eficiencia y obtener resultados positivos de forma sistemática."
-title: OUTSOURCING TÉCNICO ENFOCADO AL NEGOCIO
-subtitle: >-
-  OFRECEMOS SERVICIOS PERSONALIZADOS DE INGENIERÍA CIVIL PRESTADOS POR LOS
-  MAYORES EXPERTOS DEL MERCADO EN SOLUCIONES ESTRUCTURALES.
 estructuras:
   title: Estructuras Civiles
   subtitle: Ingeniería multidisciplinar
