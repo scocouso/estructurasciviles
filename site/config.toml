@@ -1,4 +1,4 @@
-BaseUrl = "/"
+baseURL = "/"
 languageCode = "es-es"
 title = "Barnes & Boveri"
 
