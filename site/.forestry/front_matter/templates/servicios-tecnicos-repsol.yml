@@ -28,5 +28,3 @@ fields:
   type: text
   hidden: false
   default: ''
-pages:
-- site/content/proyectos/test2.md
