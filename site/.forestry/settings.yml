@@ -19,9 +19,9 @@ sections:
   label: Paginas
   create: all
   match: "*"
-upload_dir: site/static/img
-public_path: site/static/img
-front_matter_path: "/src/js/cms-preview-templates"
+upload_dir: ''
+public_path: ''
+front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
 version: '0.48'
