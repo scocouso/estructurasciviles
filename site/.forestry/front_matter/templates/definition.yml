@@ -33,5 +33,3 @@ fields:
   type: tag_list
   hidden: false
   default: ''
-pages:
-- site/content/blog/asdasdasd.md
