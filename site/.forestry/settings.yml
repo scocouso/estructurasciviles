@@ -20,7 +20,7 @@ sections:
   create: all
   match: "*"
 upload_dir: site/static/img
-public_path: "/uploads"
+public_path: site/static/img
 front_matter_path: "/src/js/cms-preview-templates"
 use_front_matter_path: true
 file_template: ":filename:"
