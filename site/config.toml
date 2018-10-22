@@ -2,54 +2,50 @@ baseURL = "/"
 languageCode = "es-es"
 languageLang = "es"
 title = "Barnes & Boveri"
-
+[[menu.footer]]
+name = "Blog"
+url = "/blog"
+weight = 6
+[[menu.footer]]
+name = "Bussiness & Corporate"
+url = "/#business"
+weight = 2
+[[menu.footer]]
+name = "Estructuras civiles"
+url = "/#estructuras"
+weight = 1
+[[menu.footer]]
+name = "Contacto"
+url = "/#contact"
+weight = 5
+[[menu.footer]]
+name = "Proyectos"
+url = "/#portfolio"
+weight = 4
+[[menu.footer]]
+name = "Sobre Nosotros"
+url = "/#about-us"
+weight = 3
+[[menu.header]]
+name = "Sobre Nosotros"
+url = "/#about-us"
+weight = 3
+[[menu.header]]
+name = "Estructuras civiles"
+url = "/#estructuras"
+weight = 1
+[[menu.header]]
+name = "Contacto"
+url = "/#contact"
+weight = 5
+[[menu.header]]
+name = "Proyectos"
+url = "/#portfolio"
+weight = 4
+[[menu.header]]
+name = "Bussiness & Corporate"
+url = "/#business"
+weight = 2
 [taxonomies]
-  category = "categories"
-  tag = "tags"
-
-
-[menu]
-
-
-  [[menu.header]]
-    weight = 2
-    name = "Estructuras civiles"
-    url = "/#estructuras"
-  [[menu.header]]
-    weight = 3
-    name = "Bussiness & Corporate"
-    url = "/#business"
-  [[menu.header]]
-    weight = 4
-    name = "Sobre Nosotros"
-    url = "/#about-us"
-  [[menu.header]]
-    weight = 5
-    name = "Proyectos"
-    url = "/#portfolio"
-  [[menu.header]]
-    weight = 6
-    name = "Contacto"
-    url = "/#contact"
-
-
-  [[menu.footer]]
-    weight = 2
-    name = "Estructuras civiles"
-    url = "/#estructuras"
-  [[menu.footer]]
-    weight = 3
-    name = "Bussiness & Corporate"
-    url = "/#business"
-  [[menu.footer]]
-    weight = 4
-    name = "Sobre Nosotros"
-    url = "/#about-us"
-  [[menu.footer]]
-    weight = 5
-    name = "Proyectos"
-    url = "/#portfolio"
-  [[menu.footer]]
-    weight = 6
-    name = "Contacto"
-    url = "/#contact"
+category = "categories"
+tag = "tags"
