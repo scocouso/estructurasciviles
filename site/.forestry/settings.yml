@@ -21,7 +21,7 @@ sections:
   match: "*"
 upload_dir: https://res.cloudinary.com/barnes18/image/upload
 public_path: https://res.cloudinary.com/barnes18/image/upload/c_scale,w_auto:100,dpr_auto
-front_matter_path: https://res.cloudinary.com/barnes18/image/upload
-use_front_matter_path: true
+front_matter_path: ''
+use_front_matter_path: false
 file_template: ":filename:"
 version: '0.48'
