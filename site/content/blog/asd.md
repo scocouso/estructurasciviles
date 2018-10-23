@@ -2,7 +2,6 @@
 categories = ["asfasf", "asfa"]
 date = "2018-10-23T13:31:57+02:00"
 description = "asdasd asdkads asdasd saduka sduq qwe qweaskdad"
-draft = true
 image = "https://res.cloudinary.com/barnes18/image/upload/v1540228675/105233-4389643.jpg"
 tags = ["asd", "asd"]
 title = "asd"
