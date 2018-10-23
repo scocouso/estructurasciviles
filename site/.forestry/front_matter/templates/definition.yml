@@ -34,4 +34,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- site/content/blog/draft.md
 - site/content/blog/asd.md
