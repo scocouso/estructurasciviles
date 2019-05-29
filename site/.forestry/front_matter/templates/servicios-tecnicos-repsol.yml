@@ -1,7 +1,6 @@
 ---
 label: Proyectos
 hide_body: false
-is_partial: false
 fields:
 - name: title
   label: Title
@@ -28,3 +27,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- site/content/proyectos/pantalanes-maritimos.md
