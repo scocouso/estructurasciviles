@@ -1,6 +1,7 @@
 +++
 date = "2019-05-14T00:00:00+02:00"
 description = "Instalaciones de atraque para la flota mejillonera en el Porto de Xufre- Illa de Arousa"
+draft = true
 image = "/img/proyecto_prelima.jpg"
 tipo = "estructuras"
 title = "PANTALANES NAUTICOS // PORTO DO XUFRE"
