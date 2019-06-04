@@ -1,10 +1,10 @@
 +++
 categories = []
 date = ""
-description = "Estructuras Civiles ha sido adjudicada de la obra"
+description = "Estructuras Civiles inicia la fabricación de los Pantalanes flotantes para la obra en el Puerto de Xufre. Illa de Arousa.\nLas nuevas instalaciones darán cabida a barcos de la flota mejillonera.\nLa duración estimada de la obra será de 6 meses.\nMencionar que nuestro sistema de fabricación autoportante y portatil a pie de obra nos ha permitido optimizar al máximo los procesos, reduciendo tiempos y costes."
 draft = true
 image = "https://res.cloudinary.com/barnes18/image/upload/v1559644232/PHOTO-2019-02-15-21-15-12.jpg"
 tags = []
-title = "Inicio de la fabricacion de los Pantalanes flotantes"
+title = "Nuevos Pantalanes en el Puerto de Xufre"
 
 +++
