@@ -1,10 +1,10 @@
 +++
-date = "2017-01-04T15:04:10.000Z"
-description = "Creación sociedad productora de estructuras prefabricadas de hormigón en Perú. Gestión de negocio. Implantación industrial. Implantación industrial. Soporte de oficina técnica desde España. Puesta en marcha."
+date = "2019-05-14T00:00:00+02:00"
+description = "Instalaciones de atraque para la flota mejillonera en el Porto de Xufre- Illa de Arousa"
 draft = true
 image = "/img/proyecto_prelima.jpg"
 tipo = "estructuras"
-title = "Implantación y gestión // Prelima"
+title = "PANTALANES // PORTO DO XUFRE"
 
 +++
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
