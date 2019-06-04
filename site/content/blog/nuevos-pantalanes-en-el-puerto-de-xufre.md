@@ -1,10 +1,10 @@
 +++
 categories = []
 date = "2019-01-14T00:00:00+01:00"
-description = "Estructuras Civiles inicia la fabricación de los Pantalanes flotantes para la obra en el Puerto de Xufre. Illa de Arousa.\nLas nuevas instalaciones darán cabida a barcos de la flota mejillonera.\nLa duración estimada de la obra será de 6 meses.\nMencionar que nuestro sistema de fabricación autoportante y portatil a pie de obra nos ha permitido optimizar al máximo los procesos, reduciendo tiempos y costes."
+description = "Nuestros equipos de producción continuan con la ejecucion de la obra en Xufre para nuestro cliente Acciona.\n"
 draft = true
-image = "https://res.cloudinary.com/barnes18/image/upload/v1559644232/PHOTO-2019-02-15-21-15-12.jpg"
+image = "https://res.cloudinary.com/barnes18/image/upload/v1559144275/IMG_7791.jpg"
 tags = []
-title = "Nuevos Pantalanes en el Puerto de Xufre"
+title = "Avance de la instalación Pantalanes en el Puerto de Xufre"
 
 +++
