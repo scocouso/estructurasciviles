@@ -32,6 +32,10 @@ fields:
   type: tag_list
   hidden: false
   default: ''
+- type: image_gallery
+  name: galeria
+  label: Galeria
+  description: Galería de imagenes
 pages:
 - site/content/blog/inicio-de-la-fabricacion-de-los-pantalanes-flotantes.md
 - site/content/blog/nuevos-pantalanes-en-el-puerto-de-xufre.md
