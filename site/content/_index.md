@@ -2,10 +2,10 @@
 title: Inicio
 titulo_slider: "OUTSOURCING TÉCNICO ENFOCADO AL NEGOCIO"
 subtitulo_slider: OFRECEMOS SERVICIOS PERSONALIZADOS DE INGENIERÍA CIVIL PRESTADOS POR LOS MAYORES EXPERTOS DEL MERCADO EN SOLUCIONES ESTRUCTURALES.
-slide1: /img/bg1.jpg
-slide2: /img/bg2.jpg
-slide3: /img/bg3.jpg
-image: /img/logo-estructuras-civiles.png
+slide1: https://res.cloudinary.com/barnes18/image/upload/v1559750693/bg1.jpg
+slide2: https://res.cloudinary.com/barnes18/image/upload/v1559750693/bg2.jpg
+slide3: https://res.cloudinary.com/barnes18/image/upload/v1559750693/bg3.jpg
+image: https://res.cloudinary.com/barnes18/image/upload/v1559750692/logo-estructuras-civiles.png
 business:
   title : "Business & Corporate"
   subtitle : "Consultoría técnica y empresarial"
@@ -85,22 +85,22 @@ about:
       title2: "Nuestro equipo"
       equipo:
         - nombre: Jaime Lorenzo
-          foto: /img/jaime.jpeg
+          foto: /v1559750692/jaime.jpg
           puesto: Jefe de Operaciones
           descripcion: "Mi trayectoria profesional, de más de 22 años en áreas claves de la dirección, me permiten diseñar soluciones para todo tipo de clientes y cubriendo todas las necesidades requeridas. Soy un gran conocedor del sector del prefabricado de hormigón y poseo una dilatada experiencia en la gestión de grandes proyectos."
           linkedin: https://es.linkedin.com/in/jaime-alberto-lorenzo-mateo-230a1587
         - nombre: Angeles Eirin
-          foto: /img/angeles.jpeg
+          foto: /v1559750693/angeles.jpg
           puesto: Dirección Técnica-Comercial
           descripcion: "He participado en el desarrollo de grandes estructuras prefabricadas de edificios comerciales e industriales de multinacionales españolas y extranjeras. Más de 1.000 obras realizadas en los más de 29 años de experiencia, desde distintos puestos de responsabilidad, abarcando todos los procesos, de inicio a fin de obra."
           linkedin: https://es.linkedin.com/in/angeles-eirin-barrio-8b034346
 trustus:
     title: "Confian en nosotros"
     clientes:
-      - logo: /img/logo_betafiel.png
-      - logo: /img/logo_prelima.png
-      - logo: /img/logo-repsol.png
-      - logo: /img/logo_ikea.png
+      - logo: https://res.cloudinary.com/barnes18/image/upload/v1559750692/logo_betafiel.png
+      - logo: https://res.cloudinary.com/barnes18/image/upload/v1559750692/logo_prelima.png
+      - logo: https://res.cloudinary.com/barnes18/image/upload/v1559750692/logo-repsol.png
+      - logo: https://res.cloudinary.com/barnes18/image/upload/v1559750692/logo_ikea.png
 blog:
     title: De nuestro Blog
     description: Estas son algunas de nuestras últimas noticias

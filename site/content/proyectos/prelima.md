@@ -2,7 +2,7 @@
 title: Implantación y gestión // Prelima
 date: "2017-01-04T15:04:10.000Z"
 description: Creación sociedad productora de estructuras prefabricadas de hormigón en Perú. Gestión de negocio. Implantación industrial. Implantación industrial. Soporte de oficina técnica desde España. Puesta en marcha.
-image: /img/proyecto_prelima.jpg
+image: "/v1559750692/proyecto_prelima.jpg"
 tipo: estructuras
 ---
 

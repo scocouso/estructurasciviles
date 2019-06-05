@@ -2,7 +2,7 @@
 title: Agencia Comercial // Betafiel
 date: "2017-01-04T15:04:10.000Z"
 description: Agentes comerciales en exclusiva en el territorio español de elementos prefabricados de hormigón para formación de estructuras.
-image: /img/proyecto_betafiel.png
+image: "/v1559750693/proyecto_betafiel.png"
 tipo: business
 ---
 

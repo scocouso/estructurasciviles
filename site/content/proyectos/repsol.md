@@ -2,7 +2,7 @@
 title: Servicios Técnicos // Repsol
 date: "2016-12-17T15:04:10.000Z"
 description: Realización de informes técnicos estructurales.
-image: /img/proyecto_repsol.jpg
+image: "/v1559750692/proyecto_repsol.jpg"
 tipo: estructuras
 ---
 

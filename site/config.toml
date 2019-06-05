@@ -53,3 +53,7 @@ weight = 3
 [taxonomies]
 category = "categories"
 tag = "tags"
+
+[params]
+
+cloudinary_base_url = "https://res.cloudinary.com/barnes18/image/upload"

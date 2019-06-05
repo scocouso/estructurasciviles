@@ -11,7 +11,7 @@
                         <div class="blog">
                             <div class="blog-item">
                                 <div class="blog-featured-image">
-                                    <img class="img-responsive img-blog" src="{{ $.Param "image" }}" alt="" />
+                                    <img class="img-responsive img-blog" src="https://res.cloudinary.com/barnes18/image/upload{{ $.Param "image" }}" alt="" />
                                     <div class="overlay">
                                         <a class="preview btn btn-outlined btn-primary" href="blog-item.html" rel="prettyPhoto"><i class="fa fa-link"></i></a>
                                     </div>
@@ -30,6 +30,27 @@
                                     </div>
                                     <p class="lead">{{ .Description }}</p>
                                     <p>{{ .Content }}</p>
+
+                                    {{with  $.Param "galeria"}}
+                      									<div class="row">
+                      								  		{{ range $.Param "galeria" }}
+
+
+
+                      									<div class="imageGallery col-lg-4 col-xs-12 col-md-6">
+                      										 <a data-fancybox="gallery" href="https://res.cloudinary.com/barnes18/image/upload{{ . }}" title="">
+                          								 	<img class="mb-3" src="https://res.cloudinary.com/barnes18/image/upload/w_215,h_191,c_fill,g_auto{{ . }}">
+                      										 </a>
+                      									</div>
+
+
+
+                      									{{ end }}
+                      										</div>
+                        							{{ end }}
+
+
+
                                     <hr>
 
                                     <div class="tags">

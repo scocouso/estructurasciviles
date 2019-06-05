@@ -2,7 +2,7 @@
 title: Servicios Técnicos // IKEA
 date: "2017-01-04T15:04:10.000Z"
 description: Realización de informes técnicos estructurales de tiendas y centros de distribución en España.
-image: /img/proyecto_ikea.jpg
+image: "/v1559750692/proyecto_ikea.jpg"
 tipo: estructuras
 ---
 
