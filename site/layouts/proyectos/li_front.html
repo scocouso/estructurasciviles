@@ -4,7 +4,7 @@
                                 <img src="https://res.cloudinary.com/barnes18/image/upload/w_297,h_198,c_fill,g_auto{{ $.Param "image" }}" alt="proyecto foto" />
                                 <h5>{{ .Title }}</h5>
                                 <div class="overlay">
-                                    <a class="preview btn btn-outlined btn-primary" title="{{ $.Param "description" }}" href="{{ $.Param "image" }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
+                                    <a class="preview btn btn-outlined btn-primary" title="{{ $.Param "description" }}" href="https://res.cloudinary.com/barnes18/image/upload/{{ $.Param "image" }}" rel="prettyPhoto"><i class="fa fa-eye"></i></a>
                                 </div>
                             </div>
                         </li><!--/.portfolio-item-->
