@@ -1,20 +1,16 @@
 +++
 categories = ["Pantalanes"]
-date = "2019-01-14T00:00:00+01:00"
-description = "Estructuras Civiles ha sido contratada para realizar la fabricación de los Pantalanes flotantes de la obra \"Instalaciones de atraque para la flota mejillonera en el Puerto de Xufre\".\n"
+date = "2019-08-14T00:00:00+02:00"
+description = "Estructuras Civiles ha dado por finalizada la fabricación e Instalación de los Pantalanes flotantes en Xufre.\n"
 draft = true
-galeria = ["/v1560340036/IMG-20190530-WA0010.jpg", "/v1559143072/a0bab818-9f92-4644-9a41-37c249ca2633.jpg", "/v1559144275/IMG_7791.jpg", "/v1559643713/IMG-20190530-WA0014.jpg", "/v1559644187/PHOTO-2019-02-18-13-06-46.jpg"]
-image = "/v1559644232/PHOTO-2019-02-15-21-15-12.jpg"
+galeria = ["/v1566991554/IMG-20190828-WA0000_jqcnj0.jpg", "/v1566991504/IMG-20190828-WA0002_zhbtyz.jpg", "/v1566991465/IMG-20190828-WA0003_j3s5xr.jpg"]
+image = "/v1566991554/IMG-20190828-WA0000_jqcnj0.jpg"
 tags = ["flota mejillonera", "puerto"]
-title = "Nuevos Pantalanes en el Puerto de Xufre"
+title = "Finalización de la Obra Puerto de Xufre"
 
 +++
-**Estructuras Civiles** inicia la fabricación de los Pantalanes flotantes para la obra _"Instalaciones de atraque para la flota mejillonera en el Puerto de Xufre"_ Illa de Arousa.
+**Estructuras Civiles** ha dado por finalizada la instalación de los pantalanes flotantes de la obra de_"Instalaciones de atraque para la flota mejillonera en el Puerto de Xufre"_ Illa de Arousa.
 
-Las nuevas instalaciones darán cabida a barcos de 16 a 22 metros de eslora.
+"Estamos satisfechos de haber culminado la instalación de la totalidad de piezas prefabricadas en Xufre. La colaboración con nuestro cliente Acciona ha sido excelente y los plazos se han cumplido. Destacar la labor de nuestro personal que ha sido encomiable en una obra de esta envergadura. Esta obra nos abre un nicho de mercado a nivel nacional para nuestra empresa sin precedentes", ha manifestado Jaime Lorenzo, Gerente de **Estructuras Civiles**.
 
-La duración estimada de la obra será de 6 meses.
-
-Hay que mencionar que nuestro sistema de fabricación autoportante y portátil a pie de obra nos ha permitido optimizar al máximo los procesos, reduciendo tiempos y costes.
-
-Excelente noticia que posiciona a **Estructuras Civiles** como referente en la ejecución de este tipo de Proyectos.
+Estas instalaciones servirán de atraque para la flota mejillonera.
