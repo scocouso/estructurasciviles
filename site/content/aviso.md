@@ -23,7 +23,7 @@ Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) d
 
 ### Datos personales que recabamos y cómo lo hacemos
 
-Leer [Política de Privacidad]()
+Leer [Política de Privacidad](https://hopeful-knuth-2f413e.netlify.com./privacidad "Politica de privacidad")
 
 ### Compromisos y obligaciones de los usuarios
 
@@ -32,8 +32,8 @@ El Usuario queda informado, y acepta, que el acceso a la presente web no supone,
 Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web. Respecto de los contenidos de esta web, se prohíbe:
 
 * Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con la autorización de sus legítimos titulares;
-* Cualquier vulneración de los derechos del prestador o de los legítimos titulares; 
-* Su utilización para fines comerciales o publicitarios. 
+* Cualquier vulneración de los derechos del prestador o de los legítimos titulares;
+* Su utilización para fines comerciales o publicitarios.
 
 En la utilización de la web, estructurasciviles.com, el Usuario se compromete a no llevar a cabo ninguna conducta que pudiera dañar la imagen, los intereses y los derechos de Estructuras Civiles o de terceros o que pudiera dañar, inutilizar o sobrecargar el portal (indicar dominio)  o que impidiera, de cualquier forma, la normal utilización de la web.
 
@@ -61,8 +61,8 @@ En el caso de que un usuario o un tercero consideren que se ha producido una vio
 Las páginas de la web estructurasciviles.com, proporciona enlaces a otros sitios web propios y contenidos que son propiedad de terceros tales como:
 
 * Contenidos de otros blogs
-* Herramientas 
-* Recursos 
+* Herramientas
+* Recursos
 
 El único objeto de los enlaces es proporcionar al Usuario la posibilidad de acceder a dichos enlaces.
 
@@ -79,10 +79,10 @@ El Usuario que se proponga establecer cualquier dispositivo técnico de enlace d
 El Prestador no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:
 
 * La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos;
-* La existencia de virus, programas maliciosos o lesivos en los contenidos; 
-* El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal; 
-* La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web. 
-* El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web. 
+* La existencia de virus, programas maliciosos o lesivos en los contenidos;
+* El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal;
+* La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web.
+* El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web.
 
 ### Ley aplicable y jurisdicción
 
