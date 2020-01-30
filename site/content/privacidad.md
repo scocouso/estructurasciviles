@@ -18,7 +18,7 @@ Nos hemos esforzado en crear un espacio seguro y confiable y por eso queremos co
 
 Es preciso advertir que esta Política de Privacidad podría variar en función de exigencias legislativas o de autorregulación, por lo que se aconseja a los usuarios que la visiten periódicamente. Será aplicable en caso de que los usuarios decidan rellenar algún formulario de cualquiera de sus formularios de contacto donde se recaben datos de carácter personal.
 
-Barnes & Boveri ha adecuado esta web a las exigencias de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal (LOPD), y al Real Decreto 1720/2007, de 21 de diciembre, conocido como el Reglamento de desarrollo de la LOPD. Cumple también con el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).
+Barnes & Boveri ha adecuado esta web a las exigencias de la Ley Orgánica 3⁄2018, del 5 de diciembre, de Protección de Datos de Carácter Personal (LOPD) y de Garantía de Derechos Digitales (LOPD GDD), y al Real Decreto 1720⁄2007, de 21 de diciembre, conocido como el Reglamento de desarrollo de la LOPD. Cumple también con el Reglamento (UE) 2016⁄679 del Parlamento Europeo y del Consejo de 27 de abril de 2016 relativo a la protección de las personas físicas (RGPD), así como con la Ley 34⁄2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSICE o LSSI).
 
 ### Responsable del tratamiento de tus datos personales:
 
@@ -32,7 +32,7 @@ Barnes & Boveri ha adecuado esta web a las exigencias de la Ley Orgánica 15/199
 
 A efectos de lo previsto en el Reglamento General de Protección de Datos antes citado, los datos personales que nos envíes a través de los formularios de la web, recibirán el tratamiento de datos de “Usuarios de la web y suscriptores”.
 
-Para el tratamiento de datos de nuestros usuarios, implementamos todas las medidas técnicas y organizativas de seguridad establecidas en la legislación vigente.
+Para el tratamiento de datos de nuestros usuarios, se aplican medidas de seguridad técnicas, administrativas y organizativas para proteger los datos que recogemos frente a la destrucción accidental o ilícita y la pérdida, alteración, divulgación o acceso no autorizados, y frente a cualquier otra forma ilícita de tratamiento.
 
 ### Principios que aplicaremos a tu información personal
 
