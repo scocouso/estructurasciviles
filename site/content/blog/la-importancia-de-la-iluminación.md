@@ -1,21 +1,22 @@
 +++
 categories = ["Consejos"]
-date = 2020-02-08T23:00:00Z
-description = "Iluminar correctamente tu hogar es una cosa importante, por eso hemos creado este artículo para darte algunas consejos esenciales.\n"
+date = 2020-03-14T23:00:00Z
+description = "Sabemos que el ahorro energético y el respeto al medio ambiente son cosas importantes para vosotros, por eso os dejamos estos consejos para poder lograr un consumo eficiente en vuestras viviendas.\n"
 draft = true
 galeria = []
-image = "/v1584554048/1_VllL7Ts.max-750x422_jiaaui.png"
-tags = ["Arquitectura", "Calidad", "Construcción", "Diseño", "Iluminación", "Madrid", "Viviendas"]
+image = "/v1584554258/2_oEUmBOp.max-750x422_w2leak.png"
+tags = ["Medio Ambiente", "Ahorro", "Construcción", "Eficiencia", "Energético", "Madrid", "Viviendas"]
 title = "LA IMPORTANCIA DE LA ILUMINACIÓN"
 
 +++
-La iluminación de tu casa es uno de los elementos más importantes, por eso nuestras viviendas siempre están correctamente orientadas para el máximo aprovechamiento de la luz solar.
+El ahorro energético y el respeto al medio ambiente son dos de los temas más importantes de la actualidad. ¿Pero sabes como llevarlo a cabo?
 
-No obstante deberás tener en cuenta los siguientes consejos ya que la iluminación cambia de manera decisiva la percepción de un espacio.
+A continuación te dejamos algunos consejos para lograr que tu casa sea eficiente.
 
-* Busca iluminar correctamente las zonas, sin deslumbrar ni crear sombras.
-* Añade focos laterales que contrasten con la iluminación superior e inferior.
-* Evita los excesos de iluminación.
-* Busca armonía entre las bombillas, usando las mismas tonalidades.
-* En zonas de paso, emplea iluminación de detalle.
-* Juega con la iluminación para resaltar aspectos de tu vivienda.
+* Aprovechamiento del mayor número posible de horas solares.
+* Control del consumo de agua.
+* Electrodomésticos con etiquetado clase A o superior.
+* No mantener los aparatos en standby.
+* Controla las corrientes de aire.
+* Recicla los residuos.
+* Programa los equipos térmicos a temperatura confort.
