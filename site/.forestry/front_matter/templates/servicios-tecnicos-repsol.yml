@@ -28,6 +28,5 @@ fields:
   hidden: false
   default: ''
 pages:
-- site/content/proyectos/el-encinar-del-casar-1.md
 - site/content/proyectos/el-encinar-del-casar.md
 - site/content/proyectos/pantalanes-nauticos-porto-do-xufre.md
