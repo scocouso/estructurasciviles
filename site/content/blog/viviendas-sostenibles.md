@@ -2,7 +2,6 @@
 categories = ["Consejos"]
 date = 2020-02-08T23:00:00Z
 description = "Iluminar correctamente tu hogar es una cosa importante, por eso hemos creado este artículo para darte algunas consejos esenciales.\n"
-draft = true
 galeria = []
 image = "/v1584554048/1_VllL7Ts.max-750x422_jiaaui.png"
 tags = ["Arquitectura", "Calidad", "Construcción", "Diseño", "Iluminación", "Madrid", "Viviendas"]
