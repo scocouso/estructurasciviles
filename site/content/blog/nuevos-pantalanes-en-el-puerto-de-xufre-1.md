@@ -1,20 +1,24 @@
 +++
-categories = ["Pantalanes"]
-date = 2019-01-13T23:00:00Z
-description = "Estructuras Civiles ha sido contratada para realizar la fabricación de los Pantalanes flotantes de la obra \"Instalaciones de atraque para la flota mejillonera en el Puerto de Xufre\".\n"
+categories = ["Consejos"]
+date = 2020-01-13T23:00:00Z
+description = "En Estructuras civiles tenemos un gran compromiso con el medio ambiente y la sostenibilidad por eso todas nuestras viviendas cumplen con las mayores exigencias energéticas.\n"
 draft = true
-galeria = ["/v1560340036/IMG-20190530-WA0010.jpg", "/v1559143072/a0bab818-9f92-4644-9a41-37c249ca2633.jpg", "/v1559144275/IMG_7791.jpg", "/v1559643713/IMG-20190530-WA0014.jpg", "/v1559644187/PHOTO-2019-02-18-13-06-46.jpg"]
-image = "/v1559644232/PHOTO-2019-02-15-21-15-12.jpg"
-tags = ["flota mejillonera", "puerto"]
-title = "Nuevos Pantalanes en el Puerto de Xufre"
+galeria = []
+image = "/v1584553798/POST_FACEBOOK_ARQUAL.max-750x422_bjd7ci.png"
+tags = ["\"Las Rozas\"", "Boadilla", "Casas", "Hogares", "Madrid", "Pozuelo", "Unifamiliares", "Viviendas"]
+title = "VIVIENDAS SOSTENIBLES"
 
 +++
-**Estructuras Civiles** inicia la fabricación de los Pantalanes flotantes para la obra _"Instalaciones de atraque para la flota mejillonera en el Puerto de Xufre"_ Illa de Arousa.
+Creemos en la sostenibilidad, por ello nuestras viviendas están creadas y diseñadas con un profundo respeto por el medio ambiente y la calidad de vida de las personas que viven en ellas.
 
-Las nuevas instalaciones darán cabida a barcos de 16 a 22 metros de eslora.
+Creamos hogares puros, limpios y energéticamente eficientes logrando un bajo consumo energético y un gran aprovechamiento de las fuentes renovables.
 
-La duración estimada de la obra será de 6 meses.
+¿Cómo lo logramos?, Te lo contamos a continuación:
 
-Hay que mencionar que nuestro sistema de fabricación autoportante y portátil a pie de obra nos ha permitido optimizar al máximo los procesos, reduciendo tiempos y costes.
+* Buscamos la orientación más adecuada para el máximo aprovechamiento de la energía solar.
+* Utilizamos los mejores aislantes térmicos.
+* Aerotermia y paneles solares.
+* Instalamos carpintería metálica premium con rotura de puente térmico
+* Elegimos materiales saludables, lo más naturales posible.
 
-Excelente noticia que posiciona a **Estructuras Civiles** como referente en la ejecución de este tipo de Proyectos.
+El uso de materiales premium, naturales y respetuosos con el medio ambiente junto con un uso inteligente y eficiente de las instalaciones hacen de nuestras viviendas un hogar inigualable.
