@@ -2,7 +2,6 @@
 categories = ["Consejos"]
 date = 2020-01-13T23:00:00Z
 description = "En Estructuras civiles tenemos un gran compromiso con el medio ambiente y la sostenibilidad por eso todas nuestras viviendas cumplen con las mayores exigencias energéticas.\n"
-draft = true
 galeria = []
 image = "/v1584553798/POST_FACEBOOK_ARQUAL.max-750x422_bjd7ci.png"
 tags = ["\"Las Rozas\"", "Boadilla", "Casas", "Hogares", "Madrid", "Pozuelo", "Unifamiliares", "Viviendas"]
