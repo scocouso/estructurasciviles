@@ -2,7 +2,6 @@
 categories = ["Pantalanes"]
 date = 2020-03-26T23:00:00Z
 description = "Estructuras Civiles ha llevado a cabo las obras de reforma del Club Náutico de Punta Umbría\n"
-draft = true
 galeria = []
 image = "/v1585312695/disenosweb_1_88leGed.original_jrrogl.png"
 tags = ["Obras", "pantalanes", "puertos"]
