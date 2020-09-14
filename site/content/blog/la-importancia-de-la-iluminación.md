@@ -5,7 +5,7 @@ description = "Sabemos que el ahorro energético y el respeto al medio ambiente 
 galeria = []
 image = "/v1584554258/2_oEUmBOp.max-750x422_w2leak.png"
 tags = ["Medio Ambiente", "Ahorro", "Construcción", "Eficiencia", "Energético", "Madrid", "Viviendas"]
-title = "LA IMPORTANCIA DE LA ILUMINACIÓN"
+title = "CONSEJOS DE AHORRO ENERGÉTICO"
 
 +++
 El ahorro energético y el respeto al medio ambiente son dos de los temas más importantes de la actualidad. ¿Pero sabes como llevarlo a cabo?
