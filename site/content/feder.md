@@ -12,14 +12,13 @@ Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimien
 <br />
 #### Operación cofinanciada pola Unión Europea .
 <br />
-<br />
 #### Programa Operativo FEDER Galicia 2014-2020**.** 
 <br />
 #### Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade. 
 <br />
 #### _Unha maneira de facer Europa_ 
 <br />
-<br />
+
 
 **DESCRICIÓN DO PLAN:**
 <br />
