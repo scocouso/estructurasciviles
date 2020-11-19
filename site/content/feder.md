@@ -2,23 +2,24 @@
 title = "Feder"
 
 +++
-![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)
+![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)\
 
-### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
+### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes\
 
-Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)
+Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)\
 
-#### Operación cofinanciada pola Unión Europea .
+#### Operación cofinanciada pola Unión Europea .\
 
-#### Programa Operativo FEDER Galicia 2014-2020**.**
+#### Programa Operativo FEDER Galicia 2014-2020**.** \
 
-#### Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade.
+#### Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade. \
 
-#### _Unha maneira de facer Europa_
+#### _Unha maneira de facer Europa_ \
+\
 
-**DESCRICIÓN DO PLAN:**
+**DESCRICIÓN DO PLAN:**\
 
-**1. Obxectivos do plan:**
+**1. Obxectivos do plan:**\
 
 O plan de innovación 2020-2021 de Management Operativo 3.0 S.L. persegue a formulación de accións concretas, en colaboración con outras entidades, de xeito que permita mellorar a súa competitividade e crecer economicamente.
 
@@ -37,9 +38,9 @@ O.5. Lograr maior cantidade de recursos de cara o desenvolvemento de proxectos d
 O.6. Implantar melloras significativas nos procesos a través da incorporación de novas metodoloxías así como da incorporación de ferramentas TIC que permitan coñecer os parámetros da operativa.
 
 O.7. Implementar novos métodos na organización do traballo a través da creación de grupos de mellora multidisciplinais co fin último de xerar esa Big Idea que os levará ao éxito ou á solución dos pequenos problemas diarios de forma imaxinativa.
-
+\
 **2. Resultados esperados das actividades do plan:**
-
+\
 Actividade 1: O resultado esperado é a confección dun documento que contemple o mapeado dos procesos da empresa, descrición das actividades que o compoñen e un cadro de mando para a sua monitorización.
 
 Todo iso deberase traducir nunha redución dos prazos de entrega, incremento da produtividade, mellora da calidade, incremento do volume de ventas e incremento da facturación. En definitiva, unha mellora substancial da nosa competitividade no mercado.
@@ -71,9 +72,9 @@ Impacto esperado na empresa: apertura de novas comunicacións con potenciais soc
 Actividade 5: Catálogo de liñas de financiamento, incentivos e/ou deducións fiscais.
 
 Actividade 6: Como resultado desta actividade, espérase obter novos materiais con novas características e funcionalidades, tanto para a división de vivendas como para a división de obra mariña, que teñan como resultado un incremento da eficiencia, resistencia e sostibilidade das estruturas e procesos, facéndonos mais competitivos no mercado.
-
+\
 **3. Mellora competitiva polos resultados obtidos no plan:**
-
+\
 3\.1 Avances en innovación en materia de procesos, segundo o expresado no artigo 5.b.2 da convocatoria:
 
 Dende a constitución de Management Operativo 3.0, o noso equipo estivo centrado fundamentalmente na creación de novos produtos e servizos e na súa comercialización. Sen embargo, a través do informe Innobench saíu á luz a nosa necesidade de prestar unha maior atención aos nosos procesos.
