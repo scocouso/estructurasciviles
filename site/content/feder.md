@@ -3,94 +3,122 @@ draft = true
 title = "Feder"
 
 +++
-### Datos del Responsable
+### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
 
-* **Identidad del Responsable**: Barnes & Boveri, S.L.
-* **Nombre comercial:**  Barnes & Boveri
-* **NIF/CIF:** B27800655
-* **Dirección:**  C/ Velazquez Moreno 9 Bajo - Local 6  36201  - (Vigo) - Pontevedra
-* **Correo electrónico:** info@estructurasciviles.com
-* **Inscrita en el Registro Mercantil** de Pontevedra, en el tomo 3949, libro 3949, folio 215, Sección 8 y hoja  PO 56499, el 31-03-2004.
+Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)
 
-En este espacio, el USUARIO, podrá encontrar toda la información relativa a los términos y condiciones legales que definen las relaciones entre los usuarios y nosotros como responsables de esta web. Como usuario, es importante que conozcas estos términos antes de continuar tu navegación.
+#### Operación cofinanciada pola Unión Europea .
 
-Barnes & Boveri, S.L. como responsable de esta web, asume el compromiso de procesar la información de nuestros usuarios y clientes con plenas garantías y cumplir con los requisitos nacionales y europeos que regulan la recopilación y uso de los datos personales de nuestros usuarios.
+#### Programa Operativo FEDER Galicia 2014-2020**.**
 
-Esta web, por tanto, cumple rigurosamente con el RGPD (REGLAMENTO (UE) 2016/679 de protección de datos) y  la LSSI-CE la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico.
+#### Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade.
 
-### Condiciones generales de uso
+#### _Unha maneira de facer Europa_
 
-Las presentes Condiciones Generales regulan el uso (incluyendo el mero acceso) de las páginas de la web, integrantes del sitio web de Estructuras Civiles incluidos los contenidos y servicios puestos a disposición en ellas. Toda persona que acceda a la web, estructurasciviles.com (“Usuario”) acepta someterse a las Condiciones Generales vigentes en cada momento del portal estructurasciviles.com.
+**DESCRICIÓN DO PLAN:**
 
-### Datos personales que recabamos y cómo lo hacemos
+**1. Obxectivos do plan:**
 
-Leer [Política de Privacidad](https://hopeful-knuth-2f413e.netlify.com./privacidad "Politica de privacidad")
+O plan de innovación 2020-2021 de Management Operativo 3.0 S.L. persegue a formulación de accións concretas, en colaboración con outras entidades, de xeito que permita mellorar a súa competitividade e crecer economicamente.
 
-### Compromisos y obligaciones de los usuarios
+Por este motivo, defínense os seguintes obxectivos específicos aos que se buscará dar resposta a través da execución das medidas previstas neste plan de innovación:
 
-El Usuario queda informado, y acepta, que el acceso a la presente web no supone, en modo alguno, el inicio de una relación comercial con Estructuras Civiles. De esta forma, el usuario se compromete a utilizar el sitio Web, sus servicios y contenidos sin contravenir la legislación vigente, la buena fe y el orden público.
+O.1. Sistematizar a xestión da I+D+i da empresa. Proporcionar as directrices para organizar e xestionar eficazmente a I+D+i na empresa.
 
-Queda prohibido el uso de la web, con fines ilícitos o lesivos, o que, de cualquier forma, puedan causar perjuicio o impedir el normal funcionamiento del sitio web. Respecto de los contenidos de esta web, se prohíbe:
+O.2. Definir a estratexia de innovación da empresa.
 
-* Su reproducción, distribución o modificación, total o parcial, a menos que se cuente con la autorización de sus legítimos titulares;
-* Cualquier vulneración de los derechos del prestador o de los legítimos titulares;
-* Su utilización para fines comerciales o publicitarios.
+O.3. Identificar as principais tendencias de innovación do sector relevantes para o crecemento económico da empresa, a xeración de emprego, o desenvolvemento territorial a través da prestación de servizos a entidades clientes do noso territorio e da colaboración con outros axentes tales provedores, plataformas tecnolóxicas, asociacións empresariais, etc.
 
-En la utilización de la web, estructurasciviles.com, el Usuario se compromete a no llevar a cabo ninguna conducta que pudiera dañar la imagen, los intereses y los derechos de Estructuras Civiles o de terceros o que pudiera dañar, inutilizar o sobrecargar el portal (indicar dominio)  o que impidiera, de cualquier forma, la normal utilización de la web.
+O.4. Fomentar o diálogo con outros axentes/actores (universidades, institucións, empresas) buscando solucións conxuntas que favorezan o fortalecemento da empresa mediante colaboracións público-privadas, alianzas internacionais e/ou a atracción de inversores.
 
-No obstante, el Usuario debe ser consciente de que las medidas de seguridad de los sistemas informáticos en Internet no son enteramente fiables y que, por tanto Barnes & Boveri no puede garantizar la inexistencia de virus u otros elementos que puedan producir alteraciones en los sistemas informáticos (software y hardware) del Usuario o en sus documentos electrónicos y ficheros contenidos en los mismos.
+O.5. Lograr maior cantidade de recursos de cara o desenvolvemento de proxectos de I+D+i.
 
-### Medidas de seguridad
+O.6. Implantar melloras significativas nos procesos a través da incorporación de novas metodoloxías así como da incorporación de ferramentas TIC que permitan coñecer os parámetros da operativa.
 
-Los datos personales comunicados por el usuario a  Barnes & Boveri pueden ser almacenados en bases de datos automatizadas o no, cuya titularidad corresponde en exclusiva a  Barnes & Boveri, asumiendo ésta todas las medidas de índole técnica, organizativa y de seguridad que garantizan la confidencialidad, integridad y calidad de la información contenida en las mismas de acuerdo con lo establecido en la normativa vigente en protección de datos.
+O.7. Implementar novos métodos na organización do traballo a través da creación de grupos de mellora multidisciplinais co fin último de xerar esa Big Idea que os levará ao éxito ou á solución dos pequenos problemas diarios de forma imaxinativa.
 
-La comunicación entre los usuarios y  Barnes & Boveri utiliza un canal seguro, y los  datos transmitidos son cifrados gracias a protocolos a https, por tanto, garantizamos las mejores condiciones de seguridad para que la confidencialidad de los usuarios esté garantizada.
+**2. Resultados esperados das actividades do plan:**
 
-### Derechos de propiedad intelectual e industrial
+Actividade 1: O resultado esperado é a confección dun documento que contemple o mapeado dos procesos da empresa, descrición das actividades que o compoñen e un cadro de mando para a sua monitorización.
 
-En virtud de lo dispuesto en los artículos 8 y 32.1, párrafo segundo, de la Ley de Propiedad Intelectual, quedan expresamente prohibidas la reproducción, la distribución y la comunicación pública, incluida su modalidad de puesta a disposición, de la totalidad o parte de los contenidos de esta página web, con fines comerciales, en cualquier soporte y por cualquier medio técnico, sin la autorización de Barnes & Boveri. El usuario se compromete a respetar los derechos de Propiedad Intelectual e Industrial titularidad de Barnes & Boveri.
+Todo iso deberase traducir nunha redución dos prazos de entrega, incremento da produtividade, mellora da calidade, incremento do volume de ventas e incremento da facturación. En definitiva, unha mellora substancial da nosa competitividade no mercado.
 
-El usuario conoce y acepta que la totalidad del sitio web, conteniendo sin carácter exhaustivo el texto, software, contenidos (incluyendo estructura, selección, ordenación y presentación de los mismos) podcast, fotografías, material audiovisual y gráficos, está protegida por marcas, derechos de autor y otros derechos legítimos, de acuerdo con los tratados internacionales en los que España es parte y otros derechos de propiedad y leyes de España.
+Actividade 2: O resultado desta actividade é a implementación dun software que permita as seguintes funcionalidades:
 
-En el caso de que un usuario o un tercero consideren que se ha producido una violación de sus legítimos derechos de propiedad intelectual por la introducción de un determinado contenido en la web,  deberá notificar dicha circunstancia a Barnes & Boveri indicando:
+• Automatización dos procesos.
 
-* Datos personales del interesado titular de los derechos presuntamente infringidos, o indicar la representación con la que actúa en caso de que la reclamación la presente un tercero distinto del interesado.
-* Señalar los contenidos protegidos por los derechos de propiedad intelectual y su ubicación en la web, la acreditación de los derechos de propiedad intelectual señalados y declaración expresa en la que el interesado se responsabiliza de la veracidad de las informaciones facilitadas en la notificación
+• Almaceamento dos datos cos que se irá traballando.
 
-### Enlaces externos
+• Análise dos datos
 
-Las páginas de la web estructurasciviles.com, proporciona enlaces a otros sitios web propios y contenidos que son propiedad de terceros tales como:
+• Interconexión autónoma dos sistemas do proceso entre sí.
 
-* Contenidos de otros blogs
-* Herramientas
-* Recursos
+• Transformación hacia a prestación de servizos.
 
-El único objeto de los enlaces es proporcionar al Usuario la posibilidad de acceder a dichos enlaces.
+• Mellorar os nosos produtos e servizos mediante a análise dos datos obtidos durante o seu uso por todos os clientes.
 
-Barnes & Boveri no se responsabiliza en ningún caso de los resultados que puedan derivarse al Usuario por acceso a dichos enlaces.
+O maior potencial económico provirá fundamentalmente da mellora da produtividade, optimizando as operacións.
 
-Asimismo, el usuario encontrará dentro de este sitio, páginas, promociones, programas de afiliados que acceden a los hábitos de navegación de los usuarios para establecer perfiles. Esta información siempre es anónima y no se identifica al usuario.
+Isto faríase realidade a través do aforro da enerxía e da mellora da eficiencia na man de obra. Ademais, outras melloras serían a optimización dos procesos de innovación e a mellora da saúde e a seguridade dos traballadores.
 
-La Información que se proporcione en estos Sitios patrocinado o enlaces de afiliados está sujeta a las políticas de privacidad que se utilicen en dichos Sitios y no estará sujeta a esta política de privacidad. Por lo que recomendamos ampliamente a los Usuarios a revisar detalladamente las políticas de privacidad de los enlaces de afiliado.
+Actividade 3: O resultado desta actividade será a posta en marcha dunha plataforma CRM responsive, baseada nun servidor ao cal se poderá acceder dende calquera ubicación.
 
-El Usuario que se proponga establecer cualquier dispositivo técnico de enlace desde su sitio web al portal estructurasciviles.com deberá obtener la autorización previa y escrita de Barnes & Boveri, S.L. El establecimiento del enlace no implica en ningún caso la existencia de relaciones entre Barnes & Boveri y el propietario del sitio en el que se establezca el enlace, ni la aceptación o aprobación por parte de Estructuras Civiles de sus contenidos o servicios
+Actividade 4: Documento ‘Protocolo de vixilancia tecnolóxica’.
 
-### Exclusión de garantías y responsabilidades
+Impacto esperado na empresa: apertura de novas comunicacións con potenciais socios, incremento de proxectos colaborativos, incremento do impacto das iniciativas de I+D+i da empresa.
 
-El Prestador no otorga ninguna garantía ni se hace responsable, en ningún caso, de los daños y perjuicios de cualquier naturaleza que pudieran traer causa de:
+Actividade 5: Catálogo de liñas de financiamento, incentivos e/ou deducións fiscais.
 
-* La falta de disponibilidad, mantenimiento y efectivo funcionamiento de la web, o de sus servicios y contenidos;
-* La existencia de virus, programas maliciosos o lesivos en los contenidos;
-* El uso ilícito, negligente, fraudulento o contrario a este Aviso Legal;
-* La falta de licitud, calidad, fiabilidad, utilidad y disponibilidad de los servicios prestados por terceros y puestos a disposición de los usuarios en el sitio web.
-* El prestador no se hace responsable bajo ningún concepto de los daños que pudieran dimanar del uso ilegal o indebido de la presente página web.
+Actividade 6: Como resultado desta actividade, espérase obter novos materiais con novas características e funcionalidades, tanto para a división de vivendas como para a división de obra mariña, que teñan como resultado un incremento da eficiencia, resistencia e sostibilidade das estruturas e procesos, facéndonos mais competitivos no mercado.
 
-### Ley aplicable y jurisdicción
+**3. Mellora competitiva polos resultados obtidos no plan:**
 
-Con carácter general las relaciones entre Estructuras Civiles con los Usuarios de sus servicios telemáticos, presentes en esta web se encuentran sometidas a la legislación y jurisdicción españolas y a los tribunales de Pontevedra.
+3\.1 Avances en innovación en materia de procesos, segundo o expresado no artigo 5.b.2 da convocatoria:
 
-### Contacto
+Dende a constitución de Management Operativo 3.0, o noso equipo estivo centrado fundamentalmente na creación de novos produtos e servizos e na súa comercialización. Sen embargo, a través do informe Innobench saíu á luz a nosa necesidade de prestar unha maior atención aos nosos procesos.
 
-En caso de que cualquier Usuario tuviese alguna duda acerca de estas Condiciones legales o cualquier comentario sobre el portal estructurasciviles.com, por favor diríjase a info@estructurasciviles.com
+Por tal motivo, Management propón no presente plan, unha serie de actividades innovadoras en materia de procesos, co fin de incrementar a eficiencia e a produtividade dos mesmos. Estas actividades axudarán a Management a desmarcarse dos seus competidores ao mesmo tempo que progresa na mellora da calidade dos seus produtos e servizos, grazas ao estudo, análise, automatización e optimización dos seus procesos.
 
-El aviso legal  ha sido actualizado por última vez el 15 de octubre del 2018
+Para isto, iniciaremos unha transformación dixital dos nosos servizos a través do desenvolvemento e implementación dunha novidosa ferramenta TIC, apostando por un cambio radical na nosa forma de traballar, que supoñerá unha total reelaboración dos nosos procesos. O software a desenvolver permitiranos organizar e interconectar os sistemas produtivos, automatizar os procesos e almacenar unha gran cantidade de datos de traballo.
+
+Aínda que o impacto real destas actividades non é facilmente predicible, estímase que a implementación destas innovacións nos nosos procesos supoñerá:
+
+· Aumento no rendemento dos nosos procesos.
+
+· Aforro en tempo, recursos e custos.
+
+· Incremento da produtividade.
+
+Estes avances innovadores, axudaranos a mellorar a calidade dos nosos produtos e a ofrecer un servizo innovador e diferenciador aos nosos clientes, permitíndonos ser mais competitivos nun mercado cada vez mais en liña coa Industria 4.0., no que a dixitalización e automatización de procesos son aspectos claves.
+
+3\.2 Avances en materia de organización, segundo o expresado no artigo 5.b.3 da convocatoria:
+
+A innovación non pode só responder ao feito de mellorar procesos, se non que tamén se debe aplicar á organización da propia empresa, a través da planificación da organización, as tarefas, relacións internas e externas, etc. Por iso, resulta de gran importancia aplicar mecanismos e unha base de traballo que teña en conta a innovación no seu desenvolvemento, como poden ser, por exemplo, novos softwares de apoio a xestión empresarial, novos métodos de comercialización ou novas formas de contacto cos clientes a través de aplicacións.
+
+Unha das necesidades que se detectaron a través do informe Innobench, foi a de facernos mais accesibles aos nosos clientes, mellorando as vías de comunicación con eles e fomentando o feedback. Hoxe en día, grazas ás posibilidades que nos ofrece a tecnoloxía no ámbito da organización e comercialización, é posible mellorar substancialmente a nosa relación cos clientes a través de diferentes vías de comunicación, incrementando a nosa produtividade. De feito, a innovación neste campo faise cada vez mais importante para as empresas, especialmente para as pequenas e medianas, que teñen mais dificultades para abrirse camiño e crecer. É necesario recalcar a gran importancia deste aspecto especialmente na actualidade, debido á situación que estamos a atravesar con motivo da crisis do Covid-19, que fai imprescindible que as empresas de servizos se adapten á nova normalidade, adoptando os cambios e melloras que resulten necesarios na súa forma de traballo.
+
+Por este motivo, Management Operativo 3.0 formula unha serie de accións en materia de organización no presente plan de innovación, resultando especialmente novidoso o desenvolvemento da plataforma CRM responsive proposta na actividade 3 del plan. Esta plataforma incorporará unha serie de funcionalidades que supoñerán un novo método de organización das nosas prácticas comerciais, cambiando totalmente a forma de relacionarnos e comunicarnos cos nosos provedores e clientes e de xestionar todo o proceso comercial. Ademais, a plataforma será accesible para todos os eslabóns do proceso, dende calquera localización, permitindo unha comunicación e coordinación constante entre eles. A través destas funcionalidades, os nosos empregados poderán traballar de forma mais eficiente, ofrecendo un servizo totalmente axustado ás necesidades de cada un dos nosos clientes.
+
+A través do desenvolvemento e implementación desta nova plataforma, espéranse os seguintes resultados:
+
+· Aumento da produtividade dos traballadores.
+
+· Redución dos desprazamentos e prazos de entrega.
+
+· Incremento de datos e información útil recompilada.
+
+· Aumento da satisfacción dos nosos clientes co servizo proporcionado.
+
+Estas melloras en materia de organización permitiranos ser mais produtivos e eficientes na comercialización dos nosos produtos, a través dunha mellor relación cos provedores e clientes, ademais de obter un feedback que servirá para mellorar continuamente as nosas prácticas comerciais. Ademais, a aposta por un método de comunicación telemática, permitiranos incrementar a nosa competitividade nun sector no que actualmente todo o proceso comercial é moi presencial, especialmente agora, nunha nova normalidade no que priorizar unha relación segura, tanto con provedores coma con clientes, é fundamental.
+
+3\.3 Apertura de novos mercados e internacionalización da actividade empresarial:
+
+A internacionalización é un instrumento que permite optimizar a competitividade das empresas aproveitando as oportunidades da crecente integración dos mercados. Isto supón un importante reto para os empresarios, debido a que para poder competir eficazmente deben ofrecer garantía de calidade e trazabilidade, ademais de ser capaces de orientar a súa produción aos mercados con maior crecemento. A competencia en mercados internacionais favorece ao crecemento das empresas e obrígaas a innovar, mellorando con iso a recuperación económica e afianzando o seu posicionamento.
+
+Concretamente, para as empresas de servizos, as novas tecnoloxías e internet son un elemento clave no proceso de internacionalización, xa que estas revolucionaron a capacidade de transmitir, acumular e procesar información. Os servizos intensivos en interacción co cliente requiren, ben a presencia da empresa no mercado consumidor/cliente ou ben a utilización intensiva das tecnoloxías da información e da comunicación (TIC). As innovacións nas TIC está a permitir comerciar con servizos que antes non podían ser obxecto de transaccións internacionais pola necesidade de ser ofrecidos/producidos onde eran demandados.
+
+De acordo cos retos estratéxicos establecidos por Management nos últimos anos, a empresa está levando a cabo un esforzo comercial para a apertura de novos mercados internacionais a través de diferentes accións, como o desenvolvemento e implementación de diferentes ferramentas TIC, propostas nas actividades 2 e 3 do presente plan de innovación, que nos permitirán poder ofrecer os nosos produtos e servizos a nivel internacional, de xeito que poderemos ampliar a nosa carteira de clientes e realizar unha cantidade significativa de proxectos internacionais, que nos axudarán a ser mais competitivos dentro do sector.
+
+A tendencia actual dos mercados internacionais á Industria 4.0 fai imprescindible manterse informado e actualizado en canto as novas tecnoloxías empregadas na optimización e mellora de procesos industriais, así como dos propios produtos, co fin de ofrecer constantemente produtos e servizos competitivos e manter a nosa presenza nestes mercados. Por este motivo, Management considera que esta área debería ser unha das prioritarias na actividade de Vixilancia Tecnolóxica, de maneira que poida dar lugar a unha nova carteira de proxectos colaborativos que permitan cooperar con outros axentes do sector e obter novas liñas de produtos e servizos de calidade axustados ás necesidades dos clientes e que nos permita acceder a novos nichos de mercado. Por outro lado, todos estes mercados son moi competitivos, polo que, ademais da calidade dos produtos e servizos, tamén prima o prezo final dos mesmos, polo que a innovación na optimización e mellora dos procesos e a redución na utilización de recursos xogan un papel moi importante neste aspecto.
+
+Neste sentido, Management estableceu como obxectivo interno de crecemento que os proxectos realizados a nivel internacional grazas ao desenvolvemento de actividades de innovación. Este obxectivo só poderá ser conseguido grazas ás actividades contempladas neste plan.
