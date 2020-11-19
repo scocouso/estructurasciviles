@@ -5,12 +5,13 @@ title = "Feder"
 ![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)
 <br />
 <br />
-
+<br />
 ### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
 <br />
 Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)
 <br />
 #### Operación cofinanciada pola Unión Europea .
+<br />
 <br />
 #### Programa Operativo FEDER Galicia 2014-2020**.** 
 <br />
