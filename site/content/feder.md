@@ -4,6 +4,8 @@ title = "Feder"
 +++
 ![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)
 <br />
+<br />
+
 ### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
 <br />
 Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)
@@ -16,8 +18,12 @@ Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimien
 <br />
 #### _Unha maneira de facer Europa_ 
 <br />
+<br />
+
 **DESCRICIÓN DO PLAN:**
 <br />
+<br />
+
 **1. Obxectivos do plan:**
 
 O plan de innovación 2020-2021 de Management Operativo 3.0 S.L. persegue a formulación de accións concretas, en colaboración con outras entidades, de xeito que permita mellorar a súa competitividade e crecer economicamente.
