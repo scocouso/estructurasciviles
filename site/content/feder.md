@@ -9,7 +9,6 @@ title = "Feder"
 
 <br />
 <br />
-<br />
 ### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
 <br />
 Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)
