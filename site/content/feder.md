@@ -39,7 +39,7 @@ weight = 5
 
 <h4>  Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade.</h4>
 
-<h4>  _Unha maneira de facer Europa_</h4>
+<h4>  <i>Unha maneira de facer Europa</i></h4>
 
 <br />
 
