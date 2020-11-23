@@ -58,7 +58,7 @@ O.7. Implementar novos métodos na organización do traballo a través da creaci
 </div>
 
 **2. Resultados esperados das actividades do plan:**
-
+<div align="justify">
 Actividade 1: O resultado esperado é a confección dun documento que contemple o mapeado dos procesos da empresa, descrición das actividades que o compoñen e un cadro de mando para a sua monitorización.
 
 Todo iso deberase traducir nunha redución dos prazos de entrega, incremento da produtividade, mellora da calidade, incremento do volume de ventas e incremento da facturación. En definitiva, unha mellora substancial da nosa competitividade no mercado.
@@ -90,9 +90,9 @@ Impacto esperado na empresa: apertura de novas comunicacións con potenciais soc
 Actividade 5: Catálogo de liñas de financiamento, incentivos e/ou deducións fiscais.
 
 Actividade 6: Como resultado desta actividade, espérase obter novos materiais con novas características e funcionalidades, tanto para a división de vivendas como para a división de obra mariña, que teñan como resultado un incremento da eficiencia, resistencia e sostibilidade das estruturas e procesos, facéndonos mais competitivos no mercado.
-
+</div>
 **3. Mellora competitiva polos resultados obtidos no plan:**
-
+<div align="justify">
 3\.1 Avances en innovación en materia de procesos, segundo o expresado no artigo 5.b.2 da convocatoria:
 
 Dende a constitución de Management Operativo 3.0, o noso equipo estivo centrado fundamentalmente na creación de novos produtos e servizos e na súa comercialización. Sen embargo, a través do informe Innobench saíu á luz a nosa necesidade de prestar unha maior atención aos nosos procesos.
@@ -142,3 +142,4 @@ De acordo cos retos estratéxicos establecidos por Management nos últimos anos,
 A tendencia actual dos mercados internacionais á Industria 4.0 fai imprescindible manterse informado e actualizado en canto as novas tecnoloxías empregadas na optimización e mellora de procesos industriais, así como dos propios produtos, co fin de ofrecer constantemente produtos e servizos competitivos e manter a nosa presenza nestes mercados. Por este motivo, Management considera que esta área debería ser unha das prioritarias na actividade de Vixilancia Tecnolóxica, de maneira que poida dar lugar a unha nova carteira de proxectos colaborativos que permitan cooperar con outros axentes do sector e obter novas liñas de produtos e servizos de calidade axustados ás necesidades dos clientes e que nos permita acceder a novos nichos de mercado. Por outro lado, todos estes mercados son moi competitivos, polo que, ademais da calidade dos produtos e servizos, tamén prima o prezo final dos mesmos, polo que a innovación na optimización e mellora dos procesos e a redución na utilización de recursos xogan un papel moi importante neste aspecto.
 
 Neste sentido, Management estableceu como obxectivo interno de crecemento que os proxectos realizados a nivel internacional grazas ao desenvolvemento de actividades de innovación. Este obxectivo só poderá ser conseguido grazas ás actividades contempladas neste plan.
+</div>
