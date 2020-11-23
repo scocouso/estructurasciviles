@@ -9,7 +9,7 @@ weight = 5
 
 <br />
 <br />
-
+<div align="center">
 ### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
 
 ##### Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D) <br /><br /><br />
@@ -31,12 +31,12 @@ weight = 5
 <br /> 
 
 <br />
-
+<div/>
 **DESCRICIÓN DO PLAN:**
 <br />
 
 **1. Obxectivos do plan:**
-<div align="center">
+
 O plan de innovación 2020-2021 de Management Operativo 3.0 S.L. persegue a formulación de accións concretas, en colaboración con outras entidades, de xeito que permita mellorar a súa competitividade e crecer economicamente.
 
 Por este motivo, defínense os seguintes obxectivos específicos aos que se buscará dar resposta a través da execución das medidas previstas neste plan de innovación:
@@ -54,7 +54,7 @@ O.5. Lograr maior cantidade de recursos de cara o desenvolvemento de proxectos d
 O.6. Implantar melloras significativas nos procesos a través da incorporación de novas metodoloxías así como da incorporación de ferramentas TIC que permitan coñecer os parámetros da operativa.
 
 O.7. Implementar novos métodos na organización do traballo a través da creación de grupos de mellora multidisciplinais co fin último de xerar esa Big Idea que os levará ao éxito ou á solución dos pequenos problemas diarios de forma imaxinativa.
-</div>
+
 
 **2. Resultados esperados das actividades do plan:**
 
