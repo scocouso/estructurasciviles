@@ -27,19 +27,19 @@ weight = 5
 <br />
 <br />
 <div align="center">
-### Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes
+<h3> Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes</h3>
 
 <span style="font-size:16px;"> Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)</span><br /><br /><br />
 
-#### Operación cofinanciada pola Unión Europea .
+<h4> Operación cofinanciada pola Unión Europea.</h4>
 
-#### Programa Operativo FEDER Galicia 2014-2020**.**
+<h4> Programa Operativo FEDER Galicia 2014-2020</h4>
 
 <br />
 
-#### Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade.
+<h4>  Promover o desenvolvemento tecnolóxico, a innovación e unha investigación de calidade.</h4>
 
-#### _Unha maneira de facer Europa_
+<h4>  _Unha maneira de facer Europa_</h4>
 
 <br />
 
