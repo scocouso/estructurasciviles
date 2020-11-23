@@ -8,17 +8,17 @@ weight = 5
 <div style="margin-top:-50px;"></div>
 
 <div class="row">
-        <div class="col-xs-5">
+        <div class="col-md-5">
             <div class="row">
-                <div class="col-xs-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png"/>        </div>
-                <div class="col-xs-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png"/></div>
+                <div class="col-md-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png"/>        </div>
+                <div class="col-md-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png"/></div>
             </div>
         </div>
-        <div class="col-xs-7">
+        <div class="col-md-7">
             <div class="row">
-                <div class="col-xs-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png"/></div>
-                <div class="col-xs-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png"/></div>
-                <div class="col-xs-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/></div>
+                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png"/></div>
+                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png"/></div>
+                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/></div>
             </div>
         </div>
 </div>
@@ -29,7 +29,7 @@ weight = 5
 <div align="center">
 <h3> Programa InnovaPEME 2020. Plans de innovación para mellorar a capacidade innovadora de micropemes e pemes</h3>
 
-<span style="font-size:16px;"> Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)</span><br /><br /><br />
+<span style="font-size:20px;"> Management Operativo 3.0 S.L. participa no Programa InnovaPEME 2020 (procedimiento IN848 D)</span><br /><br /><br />
 
 <h4> Operación cofinanciada pola Unión Europea.</h4>
 
