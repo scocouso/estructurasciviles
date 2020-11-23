@@ -21,8 +21,8 @@ weight = 5
                 <div class="col-xs-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/></div>
             </div>
         </div>
-    </div>
-</div>                      
+</div>
+                      
 
 <br />
 <br />
