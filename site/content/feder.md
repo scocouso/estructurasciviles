@@ -7,8 +7,22 @@ weight = 5
 +++
 <div style="margin-top:-50px;"></div>
 
-
-![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)        ![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)        ![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)        ![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)        ![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)
+div class="row">
+        <div class="col-xs-5">
+            <div class="row">
+                <div class="col-xs-6 column">![](https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png)        </div>
+                <div class="col-xs-6 column">![](https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png)</div>
+            </div>
+        </div>
+        <div class="col-xs-7">
+            <div class="row">
+                <div class="col-xs-4 column">![](https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png)</div>
+                <div class="col-xs-4 column"> ![](https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png)</div>
+                <div class="col-xs-4 column">![](https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png)</div>
+            </div>
+        </div>
+    </div>
+                       
 
 <br />
 <br />
