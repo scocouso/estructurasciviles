@@ -10,15 +10,25 @@ weight = 5
 <div class="row">
         <div class="col-md-5">
             <div class="row">
-                <div class="col-md-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png"/>        </div>
-                <div class="col-md-6 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png"/></div>
+                <div class="col-md-6 column">
+                    <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803862/1_Xunta_de_Galicia_ua3n5s.png"/>        
+                </div>
+                <div class="col-md-6 column">
+                    <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803874/2_Uni%C3%B3n_Europea_aszhne.png"/>
+                 </div>
             </div>
         </div>
         <div class="col-md-7">
             <div class="row">
-                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png"/></div>
-                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png"/></div>
-                <div class="col-md-4 column"><img src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/></div>
+                <div class="col-md-4 column">
+                     <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png"/>
+                 </div>
+                <div class="col-md-4 column">
+                      <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png"/>
+                 </div>
+                <div class="col-md-4 column">
+                       <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/>
+                 </div>
             </div>
         </div>
 </div>
