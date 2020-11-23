@@ -37,7 +37,7 @@ weight = 1
 [[menu.header]]
 name = "Contacto"
 url = "/#contact"
-weight = 6
+weight = 7
 [[menu.header]]
 name = "Proyectos"
 url = "/#portfolio"
@@ -49,7 +49,7 @@ weight = 2
 [[menu.header]]
 name = "Blog"
 url = "/#blog"
-weight = 5
+weight = 6
 [params]
 cloudinary_base_url = "https://res.cloudinary.com/barnes18/image/upload"
 [taxonomies]
