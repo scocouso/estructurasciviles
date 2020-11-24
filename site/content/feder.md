@@ -21,13 +21,13 @@ weight = 5
         <div class="col-md-7">
             <div class="row">
                 <div class="col-md-4 column">
-                     <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803879/3_Xacobeo_2021_mxgfbq.png"/>
+                     <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1606230770/Xacobeo_v1_iqbj1w.jpg"/>
                  </div>
                 <div class="col-md-4 column">
-                      <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803884/4_GAIN_mn7syg.png"/>
+                      <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1606230765/Gain_v1_t2hzuf.png"/>
                  </div>
                 <div class="col-md-4 column">
-                       <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1605803890/5_Galicia_e3dgwg.png"/>
+                       <img class="img-responsive" src="https://res.cloudinary.com/barnes18/image/upload/v1606230759/Galicia_v1_dgcbaw.jpg"/>
                  </div>
             </div>
         </div>
