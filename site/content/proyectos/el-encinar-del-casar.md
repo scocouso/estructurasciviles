@@ -4,6 +4,6 @@ description = "Viviendas unifamiliares con acabados premium, diseños sofisticad
 draft = true
 image = "/v1626114045/urbana_jde0vj.jpg"
 tipo = "residencial"
-title = "El Encinar del Casar"
+title = "North Home"
 
 +++
