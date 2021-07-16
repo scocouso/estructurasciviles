@@ -13,9 +13,7 @@ title = "Estructuras Civiles, 2021"
 
 Con la constante evolución en el mercado de la construcción y de la arquitectura, aquellas empresas que no se digitalicen comenzaran a encarar ciertos obstáculos para la realización de proyectos cada vez más innovadores, ecofriendly y siguiendo el camino a la innovación.
 
-Despues de 30 años en el ambito de la construcción en proyectos tanto nacionales como internacionales, nuestros clientes ya conocen la metodología en muchos de nuestros procesos y ante todo nuestro riguroso seguimiento y seriedad a la hora de realizar nuestros proyectos, razón por la que siguen confiando en nosotros.
-
-Sin embargo, somos ante todo una empresa competitiva, eso es un echo, y como tal hemos dado un paso más hacia el futuro, incluyendo la digitalización y metodologías de la propia industria 4.0 en nuestros metodos de trabajo y la busqueda de materiales amigables para el ecosistema y ante todo eficientes.
+Somos ante todo una empresa competitiva, eso es un echo, y como tal hemos dado un paso más hacia el futuro, incluyendo la digitalización y metodologías de la propia industria 4.0 en nuestros metodos de trabajo y la busqueda de materiales amigables para el ecosistema y ante todo eficientes.
 
 ¿Como podríamos realizar dicha mejora? Esa es una buena pregunta, y aqui está una pequeña lista con algunos de nuestros servicios.
 
