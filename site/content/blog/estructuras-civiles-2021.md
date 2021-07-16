@@ -23,6 +23,4 @@ Sin embargo, somos ante todo una empresa competitiva, eso es un echo, y como tal
 * INSPECCIÓN: Detección de patologías y asesoría para ampliaciones, refuerzos o **instalaciones de paneles solares en cubiertas**. En el caso de zonas de dificil acceso, contamos con **expertos en el uso de  drones** para inspeccionar esos puntos más conflictivos. Contamos además con un **sistema de mapeado con técnicas láser** siendo posible la **creacion de recorridos en 3D a 360º** de tus instalaciones, compatible con varios sistemas de realidad virtual actuales, valido para registrar recorridos, posicionar patologías o equipos, así como el almacenamiento y medicón en tiempo real cualquier punto de interes.
 * GESTIÓN DE PROYECTOS: Servicio integral de planificación, control y ejecución material de obra. Somos especialistas en proyectos de hormigón prefabricado y estructuras marinas.
 
-Y esto solo es la punta del iceberg, si quieres saber más sobre nosotros y nuestros servicios pincha el botón, y podrás ver algunos de nuestros trabajos más recientes.
-
-     <button type="button">Click Me!</button> 
+Y esto solo es la punta del iceberg, si quieres saber más sobre nosotros y nuestros servicios pincha [AQUI](), y podrás ver algunos de nuestros trabajos más recientes.
