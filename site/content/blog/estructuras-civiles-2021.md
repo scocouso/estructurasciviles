@@ -11,8 +11,6 @@ title = "Estructuras Civiles, 2021"
 +++
 ### Es el momento de dar un paso más
 
-Con la constante evolución en el mercado de la construcción y de la arquitectura, aquellas empresas que no se digitalicen comenzaran a encarar ciertos obstáculos para la realización de proyectos cada vez más innovadores, ecofriendly y siguiendo el camino a la innovación.
-
 Somos ante todo una empresa competitiva, eso es un echo, y como tal hemos dado un paso más hacia el futuro, incluyendo la digitalización y metodologías de la propia industria 4.0 en nuestros metodos de trabajo y la busqueda de materiales amigables para el ecosistema y ante todo eficientes.
 
 ¿Como podríamos realizar dicha mejora? Esa es una buena pregunta, y aqui está una pequeña lista con algunos de nuestros servicios.
@@ -21,4 +19,4 @@ Somos ante todo una empresa competitiva, eso es un echo, y como tal hemos dado u
 * INSPECCIÓN: Detección de patologías y asesoría para ampliaciones, refuerzos o **instalaciones de paneles solares en cubiertas**. En el caso de zonas de dificil acceso, contamos con **expertos en el uso de  drones** para inspeccionar esos puntos más conflictivos. Contamos además con un **sistema de mapeado con técnicas láser** siendo posible la **creacion de recorridos en 3D a 360º** de tus instalaciones, compatible con varios sistemas de realidad virtual actuales, valido para registrar recorridos, posicionar patologías o equipos, así como el almacenamiento y medicón en tiempo real cualquier punto de interes.
 * GESTIÓN DE PROYECTOS: Servicio integral de planificación, control y ejecución material de obra. Somos especialistas en proyectos de hormigón prefabricado y estructuras marinas.
 
-Y esto solo es la punta del iceberg, si quieres saber más sobre nosotros y nuestros servicios pincha [AQUI](), y podrás ver algunos de nuestros trabajos más recientes.
+Y esto solo es la punta del iceberg, si quieres saber más sobre nosotros y nuestros servicios pincha [AQUI](https://drive.google.com/file/d/11rJfs7OifU5Q_UxrFHRXmRexIUBlhGNI/view?usp=sharing), y podrás ver algunos de nuestros trabajos más recientes.
